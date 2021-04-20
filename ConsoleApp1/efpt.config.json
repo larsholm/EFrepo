@@ -1,0 +1,68 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "TMG2_ALWContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProceduresReturnList": false,
+   "ProjectRootNamespace": "ConsoleApp1",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[ActiveRatingScheme]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CountryGroup]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CountryGroupRatingCurrency]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CountryGroupRatingOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CountryGroupToEquityFactor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Currency]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EquityFactor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RatingScheme]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CountryGroupToEquityFactorView]",
+         "ObjectType": 3
+      }
+   ],
+   "UiHint": "DKDC2GARDEVW001\\GARDEV.TMG2_ALW",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSpatial": false
+}
